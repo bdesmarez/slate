@@ -1,0 +1,8 @@
+app:
+  container_name: slate
+  image: slateserver
+  ports:
+    - 4567:4567
+  volumes:
+    - ./source:/usr/src/app/source
+
