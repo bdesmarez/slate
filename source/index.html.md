@@ -25,6 +25,30 @@ We have language bindings in Shell, Ruby, and Python! You can view code examples
 
 This example API documentation page was created with [Slate](https://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
+# First Test again
+
+
+## With a second title
+
+### Third level of title
+
+> Here I put data for code:
+
+```ruby
+gem 'Test' ~> '10.2'
+def machin
+    chose = Chose.find(params)
+end
+```
+
+This is a simple test for MD writing data.
+I love writing paragraphs with **MarkDown**
+
+Table Header 1 | Table Header 2 | Table Header 3
+-------------- | -------------- | --------------
+Row 1 col 1 | Row 1 col 2 | Row 1 col 3
+Row 2 col 1 | Row 2 col 2 | Row 2 col 3
+
 # Authentication
 
 > To authorize, use this code:
